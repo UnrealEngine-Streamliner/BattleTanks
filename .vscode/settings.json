@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"/Users/tigermei/UnrealProjects/BattleTanks/Saved": true,
+		"/Users/tigermei/UnrealProjects/BattleTanks/Content": true,
+		"/Users/tigermei/UnrealProjects/BattleTanks/BattleTanks.xcworkspace": true,
+		"/Users/tigermei/UnrealProjects/BattleTanks/.git": true,
+		"/Users/tigermei/UnrealProjects/BattleTanks/.vscode": true,
+		"/Users/tigermei/UnrealProjects/BattleTanks/Intermediate": true
+	}
+}
